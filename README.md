@@ -8,9 +8,10 @@ Oi, me chamo Chrystian! 👋🏼 <br/>
 ⬛ **BACK-END** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; ◾  JAVA <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▪️  SPRING BOOT <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; ◾  REST APIs <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; ◾  REST APIs  <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; ◾  Node.JS <br/>
 
-⬜ **FRONT-END** <br/> 
+⬜ **FRONT-END - JS e TS** <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp; ◽ REACT <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▫️ REDUX <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; ◽ VUE <br/>
