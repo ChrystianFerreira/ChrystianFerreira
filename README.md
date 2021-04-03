@@ -19,7 +19,7 @@ Oi, me chamo Chrystian! 👋🏼 <br/>
 Atualmente empregado como Jovem Aprendiz na Softplan, atuando como desenvolvedor full-stack.<br/>
 
 📧 Entre em contato agora mesmo! 👨🏻‍💻 <br/>
-chrystian.profissional@softplan.com.br
+chrystian.profissional@gmail.com.br
 
 <!---
 ChrystianFerreira/ChrystianFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
