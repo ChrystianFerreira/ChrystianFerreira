@@ -15,10 +15,11 @@ Oi, me chamo Chrystian! 👋🏼 <br/>
 ⬜ **FRONT-END - JS e TS** <br/> 
 &nbsp;&nbsp;&nbsp;&nbsp; ◽ REACT 🔹<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▫️ REDUX 🔹<br/>
-&nbsp;&nbsp;&nbsp;&nbsp; ◽ VUE 🔹<br/>
+&nbsp;&nbsp;&nbsp;&nbsp; ◽ VUE (2 & 3) 🔹<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▫️ VUEX 🔹<br/>
 <br/>
-Atualmente empregado como Jovem Aprendiz na Softplan, atuando como desenvolvedor full-stack.<br/>
+Atualmente **revolucionando o sistema financeiro** trabalhando como Desenvolvedor front-end em colaboração com a **Franq Open Banking**.<br/>
+
 
 📧 Entre em contato agora mesmo! 👨🏻‍💻 <br/>
 chrystian.profissional@gmail.com.br
