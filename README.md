@@ -18,7 +18,7 @@ Oi, me chamo Chrystian! 👋🏼 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; ◽ VUE (2 & 3) 🔹<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ▫️ VUEX 🔹<br/>
 <br/>
-Atualmente **revolucionando o sistema financeiro** trabalhando como Desenvolvedor front-end em colaboração com a **Franq Open Banking**.<br/>
+Atualmente trabalhando como Desenvolvedor front-end pleno em colaboração com a **Mesa Mobile Thinking**.<br/>
 
 
 📧 Entre em contato agora mesmo! 👨🏻‍💻 <br/>
