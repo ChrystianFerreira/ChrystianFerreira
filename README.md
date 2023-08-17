@@ -25,8 +25,6 @@ Coding since 2018. Helping tech companies since 2020.<br><br>
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianFerreira&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ---
 Get in touch!<br>
 📧 chrystian.profissional@gmail.com.br
