@@ -34,7 +34,7 @@ More information about my experiences can be found here 👇
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chrystian-ferreira-da-silva-4a86a01a0/) 
 
 
-🎓 - **SENAI/SC** - System's development and analysis - 1° class of project **Coding the future**, 2019/2<br><br>
+🎓 - **SENAI/SC** - System's development and analysis - 1st class of project **Coding the future**, 2019/2<br><br>
 [![](https://visitcount.itsvg.in/api?id=ChrystianFerreira&icon=7&color=8)](https://visitcount.itsvg.in)
 
 
